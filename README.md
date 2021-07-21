@@ -1,19 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Hasnain Makada
 
-<!--
-**hasnainmakada-99/hasnainmakada-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... Java/Web Development
-- 👯 I’m looking to collaborate on ...Android Development/Web Development Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on ...Android Development/Web Development Projects/Open Source Projects
+- 💬 Ask me about ... Collaboration On Github Repositories
 - 📫 How to reach me: ...Email @ Hasnainmakada@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 Skills 👩‍💻👩‍💻👩‍💻
 - C
 - C++
@@ -21,3 +12,8 @@ Skills 👩‍💻👩‍💻👩‍💻
 - DBMS
 - Proficiency Over Data Structures and Algorithms
 - Operating Systems - Linux, Ubuntu
+- HTML5/CSS3
+- Wordpress
+
+VCS (Version Control System) 👩‍💻👩‍💻👩‍💻
+- Git and Github
