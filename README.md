@@ -17,3 +17,13 @@ Skills 👩‍💻👩‍💻👩‍💻
 
 VCS (Version Control System) 👩‍💻👩‍💻👩‍💻
 - Git and Github
+
+## My Github Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?hasnainmakada-99=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+
+## My Github Language Stats
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?hasnainmakada-99=jasongaylord&langs_count=5&theme=tokyonight)]()
+
+
+  
