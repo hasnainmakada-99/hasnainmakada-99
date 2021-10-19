@@ -22,9 +22,4 @@ VCS (Version Control System) 👩‍💻👩‍💻👩‍💻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnainmakada-99)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## My Github Language Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmakada-99&langs_count=5&theme=tokyonight)]()
-
-
   
