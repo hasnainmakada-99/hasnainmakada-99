@@ -9,7 +9,7 @@ Skills 👩‍💻👩‍💻👩‍💻
 - C
 - C++
 - Java
-- DBMS
+- MySql - RDBMS
 - Proficiency Over Data Structures and Algorithms
 - Operating Systems - Linux, Ubuntu
 - HTML5/CSS3
