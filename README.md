@@ -34,7 +34,3 @@ Android Developer | Tech Geek | Open Source Enthusiast
 <a href="http://www.github.com/hasnainmakada-99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainmakada-99&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/hasnainmakada-99"><img src="https://activity-graph.herokuapp.com/graph?username=hasnainmakada-99&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/hasnainmakada-99/Qbeats---Music-Player" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnainmakada-99&repo=Qbeats---Music-Player&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hasnainmakada-99/D-Material---The-Darshan-Material" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnainmakada-99&repo=D-Material---The-Darshan-Material&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
