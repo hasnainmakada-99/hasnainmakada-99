@@ -1,7 +1,7 @@
 Hi 👋 My name is Hasnain Makada
 ===============================
 
-I am an 19 year old studying Computer Engineering, Have a keen interest to contribute in Open Source and I love to develop Android Apps.
+I am a 19 year old studying Computer Engineering, Have a keen interest to contribute in Open Source and I love to develop Android Apps.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 I've been learning to code from the last 3 years, started my journey by learning C programming as my first language then learned so many new languages such as C++, Java, Php etc.. So I like to learn new things & I've build a lot of projects in Node JS and Java
