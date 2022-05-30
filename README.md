@@ -4,14 +4,14 @@ Hi 👋 My name is Hasnain Makada
 I am an 19 year old studying Computer Engineering, Have a keen interest to contribute in Open Source and I love to develop Android Apps.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-I've been learning to code from the last 3 years, started my journey by learning C programming as my first language then learned so many new languages such as C++, Java, Php etc.. So I like to learn new things & I've build a lot of projects in Php and Java
+I've been learning to code from the last 3 years, started my journey by learning C programming as my first language then learned so many new languages such as C++, Java, Php etc.. So I like to learn new things & I've build a lot of projects in Node JS and Java
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [github](http://hasnainmakada-99.github.io)
+* 🖥️  See my [portfolio](https://hasnainmakada-99.github.io) hosted by [github](http://github.com)
 * ✉️  You can contact me at [hasnainmakada@gmail.com](mailto:hasnainmakada@gmail.com)
-* 🧠  I'm learning DevOps & Flutter
+* 🧠  I'm currently learning DevOps & Flutter
 * 🤝  I'm open to collaborating on All types of Open Source Projects
-* ⚡  I'm also a bibliophile
+* ⚡  And I'm also a bibliophile
 
 ### Skills
 
