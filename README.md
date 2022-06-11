@@ -32,6 +32,9 @@ I've been learning to code from the last 3 years, started my journey by learning
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://wordpress.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="36" height="36"/></a>
 <a href="https://android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="36" height="36"/></a>
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="36" height="36"/>
+</a>
 </p>
 
 
