@@ -37,6 +37,12 @@ I've been learning to code from the last 3 years, started my journey by learning
 </a>
 </p>
 
+### Tools
+<p align="left">
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36"/></a>
+<a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="36" height="36"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="36" height="36"/></a>
+</p>
 
 ### Socials
 
@@ -45,6 +51,7 @@ I've been learning to code from the last 3 years, started my journey by learning
 <a href="https://www.twitter.com/Hasnain_Makada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://hasnainm.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/hasnain-makada-5b47271aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://showwcase.com/hasnainmakada-99"><img src="Showwcase.jpg" width="36" height="36"></a>
 </p>
 
 ### Badges
