@@ -1,4 +1,4 @@
-Hi 👋 My name is Hasnain Makada
+Hey everyone 👋 I am Hasnain Makada :smiley:
 ===============================
 
 I am a 19 year old studying Computer Engineering, Have a keen interest to contribute in Open Source and I love to develop Android Apps.
@@ -51,7 +51,7 @@ I've been learning to code from the last 3 years, started my journey by learning
 <a href="https://www.twitter.com/Hasnain_Makada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://hasnainm.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/hasnain-makada-5b47271aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://showwcase.com/hasnainmakada-99"><img src="Showwcase.jpg" width="36" height="36"></a>
+<a href="https://showwcase.com/hasnainmakada-99"><img src="Showwcase.jpg" width="32" height="32"></a>
 </p>
 
 ### Badges
