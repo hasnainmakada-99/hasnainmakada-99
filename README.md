@@ -4,7 +4,7 @@ Hi 👋 My name is Hasnain Makada
 I am a 19 year old studying Computer Engineering, Have a keen interest to contribute in Open Source and I love to develop Android Apps.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-I've been learning to code from the last 3 years, started my journey by learning C programming as my first language then learned so many new languages such as C++, Java, Php etc.. So I like to learn new things & I've build a lot of projects in Node JS and Java
+I've been learning to code from the last 3 years, started my journey by learning C programming as my first language then learned so many new languages such as C++, Java, Php etc.. So I like to learn new things & I've build a lot of projects in Node JS, Flutter and Java
 
 * 🌍  I'm based in India
 * 🖥️  See my [portfolio](https://hasnainmakada-99.github.io) hosted by [github](http://github.com)
@@ -35,6 +35,18 @@ I've been learning to code from the last 3 years, started my journey by learning
 <a href="https://git-scm.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="36" height="36"/>
 </a>
+<a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36"/>
+</a>
+<a href="https://dart.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36"/>
+</a>
+<a href="https://www.docker.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36"/>
+</a>
+<a href="https://kubernetes.io/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36"/>
+</a>
 </p>
 
 ### Tools
@@ -42,6 +54,7 @@ I've been learning to code from the last 3 years, started my journey by learning
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36"/></a>
 <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="36" height="36"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="36" height="36"/></a>
+<a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="36" height="36"/></a>
 </p>
 
 ### Socials
