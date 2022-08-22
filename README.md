@@ -8,7 +8,7 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 
 * 🌍  I'm based in India
 * 🖥️  See my [portfolio](https://hasnainmakada-99.github.io) hosted by [github](http://github.com)
-* ✉️  You can contact me at [hasnainmakada@gmail.com](mailto:hasnainmakada@gmail.com)
+* ✉️  You can contact me at [my mail](mailto:hasnainmakada@gmail.com)
 * 🧠  I'm currently learning DevOps, DSA & Flutter
 * 🤝  I'm open to collaborate on All types of Open Source Projects
 * :memo: I'm also a blogger at [hashnode](http://hasnainm.hashnode.dev) and [showwcase](http://showwcase.com/hasnainmakada-99)
