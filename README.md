@@ -47,6 +47,14 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 <a href="https://kubernetes.io/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36"/>
 </a>
+<a href="https://firebase.google.com/"><img width= "36" height = "36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</a>
+<a href="https://socket.io/">
+<img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+</a>
+<a href="https://www.npmjs.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36"/>
+</a>
 </p>
 
 ### Tools
