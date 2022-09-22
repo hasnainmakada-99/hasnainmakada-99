@@ -57,6 +57,10 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 </a>
 </p>
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 ### Tools
 <p align="left">
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36"/></a>
@@ -75,18 +79,6 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 <a href="https://showwcase.com/hasnainmakada-99"><img src="Showwcase.jpg" width="32" height="32"></a>
 </p>
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/hasnainmakada-99/mergify-demo/pull/6) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-2. 💪 Opened PR [#6](https://github.com/hasnainmakada-99/mergify-demo/pull/6) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-3. ❌ Closed PR [#5](https://github.com/hasnainmakada-99/mergify-demo/pull/5) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-4. 💪 Opened PR [#5](https://github.com/hasnainmakada-99/mergify-demo/pull/5) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-5. ❌ Closed PR [#4](https://github.com/hasnainmakada-99/mergify-demo/pull/4) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-<!--END_SECTION:activity-->
-
-
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -103,3 +95,9 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 </table>
 
 <a href="http://www.github.com/hasnainmakada-99"><img src="https://activity-graph.herokuapp.com/graph?username=hasnainmakada-99&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
