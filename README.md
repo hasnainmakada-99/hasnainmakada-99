@@ -99,5 +99,3 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
