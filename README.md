@@ -75,6 +75,12 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 <a href="https://showwcase.com/hasnainmakada-99"><img src="Showwcase.jpg" width="32" height="32"></a>
 </p>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### Badges
 
 <b>My GitHub Stats</b>
