@@ -78,6 +78,12 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/hasnainmakada-99/mergify-demo/pull/6) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+2. 💪 Opened PR [#6](https://github.com/hasnainmakada-99/mergify-demo/pull/6) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+3. ❌ Closed PR [#5](https://github.com/hasnainmakada-99/mergify-demo/pull/5) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+4. 💪 Opened PR [#5](https://github.com/hasnainmakada-99/mergify-demo/pull/5) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+5. ❌ Closed PR [#4](https://github.com/hasnainmakada-99/mergify-demo/pull/4) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+<!--END_SECTION:activity-->
 
 
 
