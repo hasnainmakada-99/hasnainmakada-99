@@ -60,22 +60,26 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://vasantisuthar.hashnode.dev//mongodb-schema-design-best-practices" title="MongoDB schema design best practices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659197021167/JsHtFr2T_.jpeg" alt="MongoDB schema design best practices" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//mongodb-schema-design-best-practices" title="MongoDB schema design best practices"><strong>MongoDB schema design best practices</strong></a>
-<br/> MongoDB has been a popular database among all NoSQL databases used these days for storing big data. Unlike relational databases, it may not provide techniques for defining good relationships but it provides flexibility in defining the schema of our c... </p> <br/> <br/>
+<a href="https://hasnainm.hashnode.dev//circle-avatar-widget-in-flutter" title="Circle Avatar widget in flutter and how to use it."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662555984481/KRhqreyRU.png" alt="Circle Avatar widget in flutter and how to use it." width="250px" align="left" /></a>
+<a href="https://hasnainm.hashnode.dev//circle-avatar-widget-in-flutter" title="Circle Avatar widget in flutter and how to use it."><strong>Circle Avatar widget in flutter and how to use it.</strong></a>
+<br/> Introduction
+Hey everyone I am Hasnain Makada currently working as a Developer Advocate at Napptive where I explore the platform deeply and educate the community more and more about DevOps-related topics such as docker, Kubernetes etc... I also like ... </p> <br/> <br/>
 <p align="left">
-<a href="https://vasantisuthar.hashnode.dev//awesome-css-tools-to-maximize-your-design" title="Awesome CSS Tools to Maximize Your Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651927132245/he6m62yUF.png" alt="Awesome CSS Tools to Maximize Your Design" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//awesome-css-tools-to-maximize-your-design" title="Awesome CSS Tools to Maximize Your Design"><strong>Awesome CSS Tools to Maximize Your Design</strong></a>
-<br/> CSS has already proved its potential and it's being used by almost 100% of the website. There are many different types of CSS tools are available over Internet which will help you in developing something innovative according to your demand. However, ... </p> <br/> <br/>
+<a href="https://hasnainm.hashnode.dev//manage-k8s-clusters-via-k8s-dashboard" title="Manage k8s clusters via Kubernetes dashboard"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661755979917/TeWDw4oAL.png" alt="Manage k8s clusters via Kubernetes dashboard" width="250px" align="left" /></a>
+<a href="https://hasnainm.hashnode.dev//manage-k8s-clusters-via-k8s-dashboard" title="Manage k8s clusters via Kubernetes dashboard"><strong>Manage k8s clusters via Kubernetes dashboard</strong></a>
+<br/> Hey everyone I am Hasnain Makada currently working as a Developer Advocate at Napptive where I explore the platform closely and educate the community about DevOps and its various tools
+In this blog, I'm going to show you how you can manage your Kuber... </p> <br/> <br/>
 <p align="left">
-<a href="https://vasantisuthar.hashnode.dev//import-excel-data-to-the-mongodb-database" title="Import Excel data to the MongoDB database"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648897941700/6BdCA9Re9.png" alt="Import Excel data to the MongoDB database" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//import-excel-data-to-the-mongodb-database" title="Import Excel data to the MongoDB database"><strong>Import Excel data to the MongoDB database</strong></a>
-<br/> MongoDB is an open-source NoSQL document-oriented database, that stores the data in JSON format. It is a distributed database that is designed to store a large scale of data.
-In this article, we will look into how excel data can be imported to the Mo... </p> <br/> <br/>
+<a href="https://hasnainm.hashnode.dev//deploy-custom-application" title="How to deploy custom application on Napptive using Playground CLI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660817584140/rv6iVdJY6.png" alt="How to deploy custom application on Napptive using Playground CLI" width="250px" align="left" /></a>
+<a href="https://hasnainm.hashnode.dev//deploy-custom-application" title="How to deploy custom application on Napptive using Playground CLI"><strong>How to deploy custom application on Napptive using Playground CLI</strong></a>
+<br/> Introduction
+Hey everyone I am Hasnain Makada and I am currently working as a developer advocate at napptive where I work closely with the platform continuously and explore new DevOps tools and technologies.
+In this blog, I am going to teach you how ... </p> <br/> <br/>
 <p align="left">
-<a href="https://vasantisuthar.hashnode.dev//evolution-of-javascript-and-its-versions" title="Evolution of JavaScript and its versions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645879473530/HqG8taCwQ.png" alt="Evolution of JavaScript and its versions" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//evolution-of-javascript-and-its-versions" title="Evolution of JavaScript and its versions"><strong>Evolution of JavaScript and its versions</strong></a>
-<br/> JavaScript is a popular scripting language used for various purposes from creating static websites to dynamic web applications, desktop and mobile native applications, this increasingly growing language has its amazing history of how it was evolved a... </p> <br/> <br/>
+<a href="https://hasnainm.hashnode.dev//my-experience-with-napptive" title="My experience with Napptive so far"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660313264481/hNzbbTtx6.png" alt="My experience with Napptive so far" width="250px" align="left" /></a>
+<a href="https://hasnainm.hashnode.dev//my-experience-with-napptive" title="My experience with Napptive so far"><strong>My experience with Napptive so far</strong></a>
+<br/> Hey everyone I am Hasnain Makada and currently I am working as a Developer Advocate at Napptive where I work closely with the platform and educate the community more about DevOps
+I've been using Napptive for the past few months later, used it in one ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Tools
