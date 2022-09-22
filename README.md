@@ -72,14 +72,7 @@ Hey everyone I am Hasnain Makada and I am currently working as a developer advoc
 In this blog, I am going to teach you how ...</td><td><a href="https://hasnainm.hashnode.dev//my-experience-with-napptive" title="My experience with Napptive so far"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660313264481/hNzbbTtx6.png" alt="My experience with Napptive so far"   /></a>
 <a href="https://hasnainm.hashnode.dev//my-experience-with-napptive" title="My experience with Napptive so far"><strong>My experience with Napptive so far</strong></a>
 <br/> Hey everyone I am Hasnain Makada and currently I am working as a Developer Advocate at Napptive where I work closely with the platform and educate the community more about DevOps
-I've been using Napptive for the past few months later, used it in one ...</td></tr><tr><td><a href="https://hasnainm.hashnode.dev//apis-in-flutter" title="API(s) in flutter and how to use them ?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659687977320/PQWwI0Cm2.png" alt="API(s) in flutter and how to use them ?"   /></a>
-<a href="https://hasnainm.hashnode.dev//apis-in-flutter" title="API(s) in flutter and how to use them ?"><strong>API(s) in flutter and how to use them ?</strong></a>
-<br/> Introduction
-Hey everyone I am Hasnain and in this blog I am going to explain you about how to use API(s) in flutter and get data dynamically using an API in flutter. We will see what are the packages required to parse an API and what are some of the...</td><td><a href="https://hasnainm.hashnode.dev//my-post-hackathon-thoughts" title="My post hackathon thoughts - Data day grind 3"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658738956553/z6O6JkS8_.jpeg" alt="My post hackathon thoughts - Data day grind 3"   /></a>
-<a href="https://hasnainm.hashnode.dev//my-post-hackathon-thoughts" title="My post hackathon thoughts - Data day grind 3"><strong>My post hackathon thoughts - Data day grind 3</strong></a>
-<br/> Introduction
-Hey everyone I am Hasnain Makada and today I am writing this blog to share my thoughts about the MLH hackathon in which I participated and what are some of the new things which I learned and should you attend it ?
-Hackathon in which I pa...</td></tr></table>
+I've been using Napptive for the past few months later, used it in one ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ### Tools
