@@ -113,14 +113,14 @@ I've been using Napptive for the past few months later, used it in one ...</td><
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/hasnainmakada-99/mergify-demo/pull/6) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-2. 💪 Opened PR [#6](https://github.com/hasnainmakada-99/mergify-demo/pull/6) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-3. ❌ Closed PR [#5](https://github.com/hasnainmakada-99/mergify-demo/pull/5) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-4. 💪 Opened PR [#5](https://github.com/hasnainmakada-99/mergify-demo/pull/5) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-5. ❌ Closed PR [#4](https://github.com/hasnainmakada-99/mergify-demo/pull/4) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-6. 💪 Opened PR [#4](https://github.com/hasnainmakada-99/mergify-demo/pull/4) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-7. ❌ Closed PR [#3](https://github.com/hasnainmakada-99/mergify-demo/pull/3) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-8. 🗣 Commented on [#3](https://github.com/hasnainmakada-99/mergify-demo/issues/3) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-9. 💪 Opened PR [#3](https://github.com/hasnainmakada-99/mergify-demo/pull/3) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
-10. ❌ Closed PR [#2](https://github.com/hasnainmakada-99/mergify-demo/pull/2) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+1. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+2. 🎉 Merged PR [#6](https://github.com/hasnainmakada-99/mergify-demo/pull/6) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+3. 💪 Opened PR [#6](https://github.com/hasnainmakada-99/mergify-demo/pull/6) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+4. ❌ Closed PR [#5](https://github.com/hasnainmakada-99/mergify-demo/pull/5) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+5. 💪 Opened PR [#5](https://github.com/hasnainmakada-99/mergify-demo/pull/5) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+6. ❌ Closed PR [#4](https://github.com/hasnainmakada-99/mergify-demo/pull/4) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+7. 💪 Opened PR [#4](https://github.com/hasnainmakada-99/mergify-demo/pull/4) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+8. ❌ Closed PR [#3](https://github.com/hasnainmakada-99/mergify-demo/pull/3) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+9. 🗣 Commented on [#3](https://github.com/hasnainmakada-99/mergify-demo/issues/3) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
+10. 💪 Opened PR [#3](https://github.com/hasnainmakada-99/mergify-demo/pull/3) in [hasnainmakada-99/mergify-demo](https://github.com/hasnainmakada-99/mergify-demo)
 <!--END_SECTION:activity-->
