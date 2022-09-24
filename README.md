@@ -59,20 +59,20 @@ I am a 19 year old student currently pursuing my B.Tech in Computer Engineering 
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://hasnainm.hashnode.dev//circle-avatar-widget-in-flutter" title="Circle Avatar widget in flutter and how to use it."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662555984481/KRhqreyRU.png" alt="Circle Avatar widget in flutter and how to use it."   /></a>
+<table><tr><td><a href="https://hasnainm.hashnode.dev//the-new-way-to-automate-your-github-repositories" title="The new way to automate your GitHub repositories"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663572150168/ONn5yFG0Y.png" alt="The new way to automate your GitHub repositories"   /></a>
+<a href="https://hasnainm.hashnode.dev//the-new-way-to-automate-your-github-repositories" title="The new way to automate your GitHub repositories"><strong>The new way to automate your GitHub repositories</strong></a>
+<br/> Introduction
+Hey everyone I am hasnain makada currently working as a Developer Advocate at Napptive where I explore the platform deeply and educate the community more and more about DevOps and Flutter, I also like to explore new DevOps tools and in t...</td><td><a href="https://hasnainm.hashnode.dev//circle-avatar-widget-in-flutter" title="Circle Avatar widget in flutter and how to use it."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662555984481/KRhqreyRU.png" alt="Circle Avatar widget in flutter and how to use it."   /></a>
 <a href="https://hasnainm.hashnode.dev//circle-avatar-widget-in-flutter" title="Circle Avatar widget in flutter and how to use it."><strong>Circle Avatar widget in flutter and how to use it.</strong></a>
 <br/> Introduction
-Hey everyone I am Hasnain Makada currently working as a Developer Advocate at Napptive where I explore the platform deeply and educate the community more and more about DevOps-related topics such as docker, Kubernetes etc... I also like ...</td><td><a href="https://hasnainm.hashnode.dev//manage-k8s-clusters-via-k8s-dashboard" title="Manage k8s clusters via Kubernetes dashboard"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661755979917/TeWDw4oAL.png" alt="Manage k8s clusters via Kubernetes dashboard"   /></a>
+Hey everyone I am Hasnain Makada currently working as a Developer Advocate at Napptive where I explore the platform deeply and educate the community more and more about DevOps-related topics such as docker, Kubernetes etc... I also like ...</td></tr><tr><td><a href="https://hasnainm.hashnode.dev//manage-k8s-clusters-via-k8s-dashboard" title="Manage k8s clusters via Kubernetes dashboard"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661755979917/TeWDw4oAL.png" alt="Manage k8s clusters via Kubernetes dashboard"   /></a>
 <a href="https://hasnainm.hashnode.dev//manage-k8s-clusters-via-k8s-dashboard" title="Manage k8s clusters via Kubernetes dashboard"><strong>Manage k8s clusters via Kubernetes dashboard</strong></a>
 <br/> Hey everyone I am Hasnain Makada currently working as a Developer Advocate at Napptive where I explore the platform closely and educate the community about DevOps and its various tools
-In this blog, I'm going to show you how you can manage your Kuber...</td></tr><tr><td><a href="https://hasnainm.hashnode.dev//deploy-custom-application" title="How to deploy custom application on Napptive using Playground CLI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660817584140/rv6iVdJY6.png" alt="How to deploy custom application on Napptive using Playground CLI"   /></a>
+In this blog, I'm going to show you how you can manage your Kuber...</td><td><a href="https://hasnainm.hashnode.dev//deploy-custom-application" title="How to deploy custom application on Napptive using Playground CLI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660817584140/rv6iVdJY6.png" alt="How to deploy custom application on Napptive using Playground CLI"   /></a>
 <a href="https://hasnainm.hashnode.dev//deploy-custom-application" title="How to deploy custom application on Napptive using Playground CLI"><strong>How to deploy custom application on Napptive using Playground CLI</strong></a>
 <br/> Introduction
 Hey everyone I am Hasnain Makada and I am currently working as a developer advocate at napptive where I work closely with the platform continuously and explore new DevOps tools and technologies.
-In this blog, I am going to teach you how ...</td><td><a href="https://hasnainm.hashnode.dev//my-experience-with-napptive" title="My experience with Napptive so far"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660313264481/hNzbbTtx6.png" alt="My experience with Napptive so far"   /></a>
-<a href="https://hasnainm.hashnode.dev//my-experience-with-napptive" title="My experience with Napptive so far"><strong>My experience with Napptive so far</strong></a>
-<br/> Hey everyone I am Hasnain Makada and currently I am working as a Developer Advocate at Napptive where I work closely with the platform and educate the community more about DevOps
-I've been using Napptive for the past few months later, used it in one ...</td></tr></table>
+In this blog, I am going to teach you how ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ### Tools
