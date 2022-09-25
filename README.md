@@ -113,14 +113,14 @@ In this blog, I am going to teach you how ...</td></tr></table>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#482](https://github.com/Heptagram-Project/discord-bot/issues/482) in [Heptagram-Project/discord-bot](https://github.com/Heptagram-Project/discord-bot)
-2. 🗣 Commented on [#482](https://github.com/Heptagram-Project/discord-bot/issues/482) in [Heptagram-Project/discord-bot](https://github.com/Heptagram-Project/discord-bot)
-3. 🗣 Commented on [#1](https://github.com/Dun-sin/Sporely/issues/1) in [Dun-sin/Sporely](https://github.com/Dun-sin/Sporely)
-4. ❗️ Opened issue [#1](https://github.com/Dun-sin/Sporely/issues/1) in [Dun-sin/Sporely](https://github.com/Dun-sin/Sporely)
-5. 🗣 Commented on [#115](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/115) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-6. 🗣 Commented on [#482](https://github.com/Heptagram-Project/discord-bot/issues/482) in [Heptagram-Project/discord-bot](https://github.com/Heptagram-Project/discord-bot)
-7. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-8. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+1. 🗣 Commented on [#1](https://github.com/Dun-sin/Sporely/issues/1) in [Dun-sin/Sporely](https://github.com/Dun-sin/Sporely)
+2. ❗️ Opened issue [#38](https://github.com/SriNandan33/bootcamp/issues/38) in [SriNandan33/bootcamp](https://github.com/SriNandan33/bootcamp)
+3. 🗣 Commented on [#482](https://github.com/Heptagram-Project/discord-bot/issues/482) in [Heptagram-Project/discord-bot](https://github.com/Heptagram-Project/discord-bot)
+4. 🗣 Commented on [#482](https://github.com/Heptagram-Project/discord-bot/issues/482) in [Heptagram-Project/discord-bot](https://github.com/Heptagram-Project/discord-bot)
+5. 🗣 Commented on [#1](https://github.com/Dun-sin/Sporely/issues/1) in [Dun-sin/Sporely](https://github.com/Dun-sin/Sporely)
+6. ❗️ Opened issue [#1](https://github.com/Dun-sin/Sporely/issues/1) in [Dun-sin/Sporely](https://github.com/Dun-sin/Sporely)
+7. 🗣 Commented on [#115](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/115) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+8. 🗣 Commented on [#482](https://github.com/Heptagram-Project/discord-bot/issues/482) in [Heptagram-Project/discord-bot](https://github.com/Heptagram-Project/discord-bot)
 9. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 10. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 <!--END_SECTION:activity-->
