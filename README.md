@@ -113,14 +113,14 @@ In this blog, I am going to teach you how ...</td></tr></table>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#138](https://github.com/collab-community/journey-book/pull/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
-2. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-3. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+1. 🗣 Commented on [#138](https://github.com/collab-community/journey-book/issues/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+2. 💪 Opened PR [#138](https://github.com/collab-community/journey-book/pull/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+3. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 4. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 5. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 6. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 7. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-8. 🗣 Commented on [#1885](https://github.com/kamranahmedse/developer-roadmap/issues/1885) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-10. 🗣 Commented on [#137](https://github.com/collab-community/journey-book/issues/137) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+8. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+9. 🗣 Commented on [#1885](https://github.com/kamranahmedse/developer-roadmap/issues/1885) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 <!--END_SECTION:activity-->
