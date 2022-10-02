@@ -113,12 +113,12 @@ In this blog, I am going to teach you how ...</td></tr></table>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. 💪 Opened PR [#28](https://github.com/shivanshsinghx365/Computer-Science-Resources/pull/28) in [shivanshsinghx365/Computer-Science-Resources](https://github.com/shivanshsinghx365/Computer-Science-Resources)
-3. 🗣 Commented on [#138](https://github.com/collab-community/journey-book/issues/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
-4. 💪 Opened PR [#138](https://github.com/collab-community/journey-book/pull/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
-5. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-6. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+1. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/shoes/pull/1) in [hasnainmakada-99/shoes](https://github.com/hasnainmakada-99/shoes)
+2. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+3. 💪 Opened PR [#28](https://github.com/shivanshsinghx365/Computer-Science-Resources/pull/28) in [shivanshsinghx365/Computer-Science-Resources](https://github.com/shivanshsinghx365/Computer-Science-Resources)
+4. 🗣 Commented on [#138](https://github.com/collab-community/journey-book/issues/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+5. 💪 Opened PR [#138](https://github.com/collab-community/journey-book/pull/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+6. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 7. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 8. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 9. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
