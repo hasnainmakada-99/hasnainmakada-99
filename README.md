@@ -111,14 +111,14 @@ In this blog, I'm going to show you how you can manage your Kuber...</td></tr></
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/atapas/shoes/issues/2) in [atapas/shoes](https://github.com/atapas/shoes)
-2. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/shoes/pull/1) in [hasnainmakada-99/shoes](https://github.com/hasnainmakada-99/shoes)
-3. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-4. 💪 Opened PR [#28](https://github.com/shivanshsinghx365/Computer-Science-Resources/pull/28) in [shivanshsinghx365/Computer-Science-Resources](https://github.com/shivanshsinghx365/Computer-Science-Resources)
-5. 🗣 Commented on [#138](https://github.com/collab-community/journey-book/issues/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
-6. 💪 Opened PR [#138](https://github.com/collab-community/journey-book/pull/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
-7. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-8. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+1. 💪 Opened PR [#178](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/178) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. ❗️ Opened issue [#2](https://github.com/atapas/shoes/issues/2) in [atapas/shoes](https://github.com/atapas/shoes)
+3. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/shoes/pull/1) in [hasnainmakada-99/shoes](https://github.com/hasnainmakada-99/shoes)
+4. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+5. 💪 Opened PR [#28](https://github.com/shivanshsinghx365/Computer-Science-Resources/pull/28) in [shivanshsinghx365/Computer-Science-Resources](https://github.com/shivanshsinghx365/Computer-Science-Resources)
+6. 🗣 Commented on [#138](https://github.com/collab-community/journey-book/issues/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+7. 💪 Opened PR [#138](https://github.com/collab-community/journey-book/pull/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+8. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 9. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 10. 🗣 Commented on [#67](https://github.com/Dun-sin/Code-Magic/issues/67) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 <!--END_SECTION:activity-->
