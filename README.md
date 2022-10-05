@@ -111,14 +111,14 @@ In this blog, I'm going to show you how you can manage your Kuber...</td></tr></
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/react-play/pull/1) in [hasnainmakada-99/react-play](https://github.com/hasnainmakada-99/react-play)
-2. 🗣 Commented on [#178](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/178) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. 🗣 Commented on [#2](https://github.com/atapas/shoes/issues/2) in [atapas/shoes](https://github.com/atapas/shoes)
+2. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/react-play/pull/1) in [hasnainmakada-99/react-play](https://github.com/hasnainmakada-99/react-play)
 3. 🗣 Commented on [#178](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/178) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-4. 💪 Opened PR [#178](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/178) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. ❗️ Opened issue [#2](https://github.com/atapas/shoes/issues/2) in [atapas/shoes](https://github.com/atapas/shoes)
-6. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/shoes/pull/1) in [hasnainmakada-99/shoes](https://github.com/hasnainmakada-99/shoes)
-7. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-8. 💪 Opened PR [#28](https://github.com/shivanshsinghx365/Computer-Science-Resources/pull/28) in [shivanshsinghx365/Computer-Science-Resources](https://github.com/shivanshsinghx365/Computer-Science-Resources)
-9. 🗣 Commented on [#138](https://github.com/collab-community/journey-book/issues/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
-10. 💪 Opened PR [#138](https://github.com/collab-community/journey-book/pull/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+4. 🗣 Commented on [#178](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/178) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+5. 💪 Opened PR [#178](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/178) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+6. ❗️ Opened issue [#2](https://github.com/atapas/shoes/issues/2) in [atapas/shoes](https://github.com/atapas/shoes)
+7. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/shoes/pull/1) in [hasnainmakada-99/shoes](https://github.com/hasnainmakada-99/shoes)
+8. 🗣 Commented on [#95](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/95) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+9. 💪 Opened PR [#28](https://github.com/shivanshsinghx365/Computer-Science-Resources/pull/28) in [shivanshsinghx365/Computer-Science-Resources](https://github.com/shivanshsinghx365/Computer-Science-Resources)
+10. 🗣 Commented on [#138](https://github.com/collab-community/journey-book/issues/138) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
 <!--END_SECTION:activity-->
