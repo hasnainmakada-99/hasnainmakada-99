@@ -111,14 +111,14 @@ In this blog, I'm going to show you how you can manage your Kuber...</td></tr></
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/Showwcase/hacktoberfest/issues/9) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
-2. 💪 Opened PR [#8](https://github.com/Showwcase/hacktoberfest/pull/8) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
-3. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/hacktoberfest/pull/1) in [hasnainmakada-99/hacktoberfest](https://github.com/hasnainmakada-99/hacktoberfest)
-4. 💪 Opened PR [#1](https://github.com/hasnainmakada-99/hacktoberfest/pull/1) in [hasnainmakada-99/hacktoberfest](https://github.com/hasnainmakada-99/hacktoberfest)
-5. ❗️ Opened issue [#4](https://github.com/Showwcase/hacktoberfest/issues/4) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
-6. 🗣 Commented on [#4](https://github.com/atapas/shoes/issues/4) in [atapas/shoes](https://github.com/atapas/shoes)
-7. 🗣 Commented on [#638](https://github.com/reactplay/react-play/issues/638) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. ❗️ Closed issue [#22](https://github.com/Mastersam07/wa_status_saver/issues/22) in [Mastersam07/wa_status_saver](https://github.com/Mastersam07/wa_status_saver)
-9. ❗️ Closed issue [#3459](https://github.com/Haptic-Apps/Slide/issues/3459) in [Haptic-Apps/Slide](https://github.com/Haptic-Apps/Slide)
-10. ❗️ Closed issue [#28](https://github.com/viralvaghela/flutter_insta/issues/28) in [viralvaghela/flutter_insta](https://github.com/viralvaghela/flutter_insta)
+1. ❗️ Opened issue [#2289](https://github.com/kamranahmedse/developer-roadmap/issues/2289) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. ❗️ Opened issue [#9](https://github.com/Showwcase/hacktoberfest/issues/9) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+3. 💪 Opened PR [#8](https://github.com/Showwcase/hacktoberfest/pull/8) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+4. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/hacktoberfest/pull/1) in [hasnainmakada-99/hacktoberfest](https://github.com/hasnainmakada-99/hacktoberfest)
+5. 💪 Opened PR [#1](https://github.com/hasnainmakada-99/hacktoberfest/pull/1) in [hasnainmakada-99/hacktoberfest](https://github.com/hasnainmakada-99/hacktoberfest)
+6. ❗️ Opened issue [#4](https://github.com/Showwcase/hacktoberfest/issues/4) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+7. 🗣 Commented on [#4](https://github.com/atapas/shoes/issues/4) in [atapas/shoes](https://github.com/atapas/shoes)
+8. 🗣 Commented on [#638](https://github.com/reactplay/react-play/issues/638) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. ❗️ Closed issue [#22](https://github.com/Mastersam07/wa_status_saver/issues/22) in [Mastersam07/wa_status_saver](https://github.com/Mastersam07/wa_status_saver)
+10. ❗️ Closed issue [#3459](https://github.com/Haptic-Apps/Slide/issues/3459) in [Haptic-Apps/Slide](https://github.com/Haptic-Apps/Slide)
 <!--END_SECTION:activity-->
