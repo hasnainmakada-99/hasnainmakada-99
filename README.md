@@ -111,14 +111,14 @@ In this blog, I'm going to show you how you can manage your Kuber...</td></tr></
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/atapas/markdown-cheatsheet/issues/24) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-2. ❗️ Opened issue [#2289](https://github.com/kamranahmedse/developer-roadmap/issues/2289) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. ❗️ Opened issue [#9](https://github.com/Showwcase/hacktoberfest/issues/9) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
-4. 💪 Opened PR [#8](https://github.com/Showwcase/hacktoberfest/pull/8) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
-5. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/hacktoberfest/pull/1) in [hasnainmakada-99/hacktoberfest](https://github.com/hasnainmakada-99/hacktoberfest)
-6. 💪 Opened PR [#1](https://github.com/hasnainmakada-99/hacktoberfest/pull/1) in [hasnainmakada-99/hacktoberfest](https://github.com/hasnainmakada-99/hacktoberfest)
-7. ❗️ Opened issue [#4](https://github.com/Showwcase/hacktoberfest/issues/4) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
-8. 🗣 Commented on [#4](https://github.com/atapas/shoes/issues/4) in [atapas/shoes](https://github.com/atapas/shoes)
-9. 🗣 Commented on [#638](https://github.com/reactplay/react-play/issues/638) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. ❗️ Closed issue [#22](https://github.com/Mastersam07/wa_status_saver/issues/22) in [Mastersam07/wa_status_saver](https://github.com/Mastersam07/wa_status_saver)
+1. 💪 Opened PR [#39](https://github.com/atapas/markdown-cheatsheet/pull/39) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+2. 🗣 Commented on [#24](https://github.com/atapas/markdown-cheatsheet/issues/24) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+3. ❗️ Opened issue [#2289](https://github.com/kamranahmedse/developer-roadmap/issues/2289) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. ❗️ Opened issue [#9](https://github.com/Showwcase/hacktoberfest/issues/9) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+5. 💪 Opened PR [#8](https://github.com/Showwcase/hacktoberfest/pull/8) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+6. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/hacktoberfest/pull/1) in [hasnainmakada-99/hacktoberfest](https://github.com/hasnainmakada-99/hacktoberfest)
+7. 💪 Opened PR [#1](https://github.com/hasnainmakada-99/hacktoberfest/pull/1) in [hasnainmakada-99/hacktoberfest](https://github.com/hasnainmakada-99/hacktoberfest)
+8. ❗️ Opened issue [#4](https://github.com/Showwcase/hacktoberfest/issues/4) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+9. 🗣 Commented on [#4](https://github.com/atapas/shoes/issues/4) in [atapas/shoes](https://github.com/atapas/shoes)
+10. 🗣 Commented on [#638](https://github.com/reactplay/react-play/issues/638) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
