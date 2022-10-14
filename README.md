@@ -111,13 +111,13 @@ Hey everyone I am Hasnain Makada currently working as a Developer Advocate at Na
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/softwcoins/website/issues/3) in [softwcoins/website](https://github.com/softwcoins/website)
-2. 💪 Opened PR [#127](https://github.com/TryShape/tryshape/pull/127) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
-3. ❌ Closed PR [#2](https://github.com/hasnainmakada-99/tryshape/pull/2) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
-4. 💪 Opened PR [#2](https://github.com/hasnainmakada-99/tryshape/pull/2) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
-5. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/tryshape/pull/1) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
-6. ❗️ Opened issue [#124](https://github.com/TryShape/tryshape/issues/124) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
-7. 💪 Opened PR [#39](https://github.com/atapas/markdown-cheatsheet/pull/39) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-8. 🗣 Commented on [#24](https://github.com/atapas/markdown-cheatsheet/issues/24) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-9. ❗️ Opened issue [#2289](https://github.com/kamranahmedse/developer-roadmap/issues/2289) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. ❗️ Opened issue [#9](https://github.com/Showwcase/hacktoberfest/issues/9) in [Showwcase/hacktoberfest](https://github.com/Showwcase/hacktoberfest)
+2. 🗣 Commented on [#3](https://github.com/softwcoins/website/issues/3) in [softwcoins/website](https://github.com/softwcoins/website)
+3. 💪 Opened PR [#127](https://github.com/TryShape/tryshape/pull/127) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+4. ❌ Closed PR [#2](https://github.com/hasnainmakada-99/tryshape/pull/2) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
+5. 💪 Opened PR [#2](https://github.com/hasnainmakada-99/tryshape/pull/2) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
+6. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/tryshape/pull/1) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
+7. ❗️ Opened issue [#124](https://github.com/TryShape/tryshape/issues/124) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+8. 💪 Opened PR [#39](https://github.com/atapas/markdown-cheatsheet/pull/39) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+9. 🗣 Commented on [#24](https://github.com/atapas/markdown-cheatsheet/issues/24) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+10. ❗️ Opened issue [#2289](https://github.com/kamranahmedse/developer-roadmap/issues/2289) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
