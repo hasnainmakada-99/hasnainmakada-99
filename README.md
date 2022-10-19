@@ -110,14 +110,14 @@ Hey everyone I am Hasnain Makada currently working as a Developer Advocate at Na
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/1) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. ❗️ Opened issue [#1](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/1) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/Open-Source-with-Hasnain/pull/1) in [hasnainmakada-99/Open-Source-with-Hasnain](https://github.com/hasnainmakada-99/Open-Source-with-Hasnain)
-4. 🗣 Commented on [#3](https://github.com/softwcoins/website/issues/3) in [softwcoins/website](https://github.com/softwcoins/website)
+1. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/Tradify/pull/1) in [hasnainmakada-99/Tradify](https://github.com/hasnainmakada-99/Tradify)
+2. 🗣 Commented on [#1](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/1) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. ❗️ Opened issue [#1](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/1) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/Open-Source-with-Hasnain/pull/1) in [hasnainmakada-99/Open-Source-with-Hasnain](https://github.com/hasnainmakada-99/Open-Source-with-Hasnain)
 5. 🗣 Commented on [#3](https://github.com/softwcoins/website/issues/3) in [softwcoins/website](https://github.com/softwcoins/website)
-6. 💪 Opened PR [#127](https://github.com/TryShape/tryshape/pull/127) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
-7. ❌ Closed PR [#2](https://github.com/hasnainmakada-99/tryshape/pull/2) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
-8. 💪 Opened PR [#2](https://github.com/hasnainmakada-99/tryshape/pull/2) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
-9. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/tryshape/pull/1) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
-10. ❗️ Opened issue [#124](https://github.com/TryShape/tryshape/issues/124) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+6. 🗣 Commented on [#3](https://github.com/softwcoins/website/issues/3) in [softwcoins/website](https://github.com/softwcoins/website)
+7. 💪 Opened PR [#127](https://github.com/TryShape/tryshape/pull/127) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+8. ❌ Closed PR [#2](https://github.com/hasnainmakada-99/tryshape/pull/2) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
+9. 💪 Opened PR [#2](https://github.com/hasnainmakada-99/tryshape/pull/2) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
+10. ❌ Closed PR [#1](https://github.com/hasnainmakada-99/tryshape/pull/1) in [hasnainmakada-99/tryshape](https://github.com/hasnainmakada-99/tryshape)
 <!--END_SECTION:activity-->
