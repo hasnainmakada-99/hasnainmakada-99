@@ -111,13 +111,13 @@ Hey everyone I am hasnain makada currently working as a Developer Advocate at Na
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55](https://github.com/napptive/catalog-manager/issues/55) in [napptive/catalog-manager](https://github.com/napptive/catalog-manager)
-2. 🗣 Commented on [#3](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/3) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🗣 Commented on [#2](https://github.com/pwnb0y/PumpkinShell/issues/2) in [pwnb0y/PumpkinShell](https://github.com/pwnb0y/PumpkinShell)
-4. ❗️ Opened issue [#8](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/8) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-5. ❌ Closed PR [#2](https://github.com/hasnainmakada-99/react-play/pull/2) in [hasnainmakada-99/react-play](https://github.com/hasnainmakada-99/react-play)
-6. 🗣 Commented on [#3](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/3) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. 🗣 Commented on [#55](https://github.com/napptive/catalog-manager/issues/55) in [napptive/catalog-manager](https://github.com/napptive/catalog-manager)
-8. 🗣 Commented on [#3](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/3) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-9. 🗣 Commented on [#3](https://github.com/softwcoins/website/issues/3) in [softwcoins/website](https://github.com/softwcoins/website)
-10. ❌ Closed PR [#7](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/7) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. 🗣 Commented on [#55](https://github.com/napptive/catalog-manager/issues/55) in [napptive/catalog-manager](https://github.com/napptive/catalog-manager)
+3. 🗣 Commented on [#3](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/3) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🗣 Commented on [#2](https://github.com/pwnb0y/PumpkinShell/issues/2) in [pwnb0y/PumpkinShell](https://github.com/pwnb0y/PumpkinShell)
+5. ❗️ Opened issue [#8](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/8) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. ❌ Closed PR [#2](https://github.com/hasnainmakada-99/react-play/pull/2) in [hasnainmakada-99/react-play](https://github.com/hasnainmakada-99/react-play)
+7. 🗣 Commented on [#3](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/3) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+8. 🗣 Commented on [#55](https://github.com/napptive/catalog-manager/issues/55) in [napptive/catalog-manager](https://github.com/napptive/catalog-manager)
+9. 🗣 Commented on [#3](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/3) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+10. 🗣 Commented on [#3](https://github.com/softwcoins/website/issues/3) in [softwcoins/website](https://github.com/softwcoins/website)
 <!--END_SECTION:activity-->
