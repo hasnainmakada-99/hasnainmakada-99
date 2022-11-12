@@ -1,3 +1,6 @@
+![Showwcase and twitter header](https://user-images.githubusercontent.com/82728823/201467777-24996a21-ac61-4b7e-a726-85b7f8d67aa9.png)
+
+
 Hey everyone 👋 I am Hasnain Makada :smiley:
 ===============================
 
@@ -13,6 +16,10 @@ Developer Advocate :avocado: at Napptive | Tech Geek | DevOps & Flutter :blue_he
 * 🤝  I'm open to collaborate on All types of Open Source Projects
 * :memo: I'm also a blogger at [hashnode](http://hasnainm.hashnode.dev) and [showwcase](http://showwcase.com/hasnainmakada-99)
 * ⚡  And I'm also a bibliophile
+
+**I mainly work in DevOps and Flutter where I am mostly intrested in Android Development and learn new DevOps tools to understand how the Software Engineering cycle works. Along with that, I also maintain an open source project "Open Source wit Hasnain" which is completely intented for beginners who are new to open source  or just getting started with it. They can get thousands of resourcs for free from there.**
+
+**Check out [Open source with Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)**
 
 ### Skills
 
