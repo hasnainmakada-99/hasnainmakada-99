@@ -117,14 +117,14 @@ Hey everyone I am hasnain makada currently working as a Developer Advocate at Na
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/18) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. 🗣 Commented on [#13](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/13) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🎉 Merged PR [#17](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/17) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-4. 🗣 Commented on [#12](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/12) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-5. 🎉 Merged PR [#16](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/16) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. 🗣 Commented on [#10](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/10) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. 🎉 Merged PR [#15](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/15) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. 🗣 Commented on [#2](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/2) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-9. 🗣 Commented on [#2](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/2) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+1. ❗️ Closed issue [#8](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/8) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. ❗️ Opened issue [#19](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/19) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. 🎉 Merged PR [#18](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/18) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🗣 Commented on [#13](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/13) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+5. 🎉 Merged PR [#17](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/17) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🗣 Commented on [#12](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/12) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+7. 🎉 Merged PR [#16](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/16) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+8. 🗣 Commented on [#10](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/10) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. 🎉 Merged PR [#15](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/15) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 10. 🗣 Commented on [#2](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/2) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 <!--END_SECTION:activity-->
