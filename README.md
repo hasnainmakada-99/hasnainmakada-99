@@ -120,14 +120,14 @@ In this b...</td></tr></table>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#48](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/48) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. 🗣 Commented on [#51](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/51) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🗣 Commented on [#48](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/48) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-4. 🗣 Commented on [#49](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/49) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+1. 🗣 Commented on [#51](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/51) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. ❗️ Closed issue [#48](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/48) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. 🗣 Commented on [#51](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/51) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🗣 Commented on [#48](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/48) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 5. 🗣 Commented on [#49](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/49) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. 🗣 Commented on [#44](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/44) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. 🗣 Commented on [#47](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/47) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. ❌ Closed PR [#47](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/47) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-9. ❌ Closed PR [#46](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/46) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-10. ❌ Closed PR [#45](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/45) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🗣 Commented on [#49](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/49) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+7. 🗣 Commented on [#44](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/44) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+8. 🗣 Commented on [#47](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/47) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. ❌ Closed PR [#47](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/47) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+10. ❌ Closed PR [#46](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/46) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 <!--END_SECTION:activity-->
