@@ -4,10 +4,10 @@
 Hey everyone 👋 I am Hasnain Makada :smiley:
 ===============================
 
-Developer Advocate :avocado: at Napptive | Tech Geek | DevOps & Flutter :blue_heart: | Android Dev.
+Building out [OSWH](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain) | Tech Geek | DevOps & Flutter :blue_heart: | Android Dev. | Blogger at [Hashnode](https://hasnainm.hashnode.dev) and [Showwcase](https://showwcase.com/hasnainmakada-99)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-**I am a 19 year old student currently pursuing my B.Tech in Computer Engineering and working as a Developer Advocate at Napptive with a keen interest in contributing to Open Source and Android projects. Looking for an opportunity to work in a leading organization in a challenging position where I can apply my skills in Software Engineering.**
+**I am a 19 year old student currently pursuing my B.Tech in Computer Engineering and building out '_**Open Source with Hasnain**_' with a keen interest in contributing to Open Source and Android projects. Looking for an opportunity to work in a leading organization in a challenging position where I can apply my skills to build out great softwares.**
 
  * 🌍  I'm based in India
  * 🖥️  See my [portfolio](https://hasnainmakada-99.github.io) hosted by [github](http://github.com)
