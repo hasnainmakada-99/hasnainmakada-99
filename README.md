@@ -114,7 +114,7 @@ Hey everyone, I am Hasnain Makada and currently working as a Developer Advocate 
   </tr>
 </table>
 
-<a href="http://www.github.com/hasnainmakada-99"><img src="https://activity-graph.herokuapp.com/graph?username=hasnainmakada-99&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/hasnainmakada-99"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hasnainmakada-99&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### :zap: Recent Activity
 
