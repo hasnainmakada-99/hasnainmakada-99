@@ -83,20 +83,20 @@ Hey everyone, I am Hasnain Makada and currently working as a Developer Advocate 
 
 ### Tools
 <p align="left">
-<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36"/></a>
-<a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="36" height="36"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="36" height="36"/></a>
-<a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="36" height="36"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+<a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="40" height="40"/></a>
+<a href="https://www.notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="40" height="40"/></a>
 </p>
 
 ### Socials
 
 <p align="left"> 
-<a href="https://www.github.com/hasnainmakada-99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/Hasnain_Makada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://hasnainm.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/hasnain-makada-5b47271aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://showwcase.com/hasnainmakada-99"><img src="Showwcase.jpg" width="32" height="32"></a>
+<a href="https://www.github.com/hasnainmakada-99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> 
+<a href="https://www.twitter.com/Hasnain_Makada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>
+<a href="https://hasnainm.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="40" /></a> 
+<a href="https://www.linkedin.com/in/hasnain-makada-5b47271aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
+<a href="https://showwcase.com/hasnainmakada-99"><img src="Showwcase.jpg" width="40" height="40"></a>
 </p>
 
 ### Badges
