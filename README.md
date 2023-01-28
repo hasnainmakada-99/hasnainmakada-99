@@ -7,15 +7,15 @@ Hey everyone 👋 I am Hasnain Makada :smiley:
 Building out [OSWH](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain) | Tech Geek | DevOps & Flutter :blue_heart: | Android Dev. | Blogger at [Hashnode](https://hasnainm.hashnode.dev) and [Showwcase](https://showwcase.com/hasnainmakada-99)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-<font size="3">**I am a 19 year old student currently pursuing my B.Tech in Computer Engineering and building out '_**Open Source with Hasnain**_' with a keen interest in contributing to Open Source and Android projects. Looking for an opportunity to work in a leading organization in a challenging position where I can apply my skills to build out great softwares.**</font>
+**I am a 19 year old student currently pursuing my B.Tech in Computer Engineering and building out '_**Open Source with Hasnain**_' with a keen interest in contributing to Open Source and Android projects. Looking for an opportunity to work in a leading organization in a challenging position where I can apply my skills to build out great softwares.**
 
- ### * 🌍  I'm based in India
- ### * 🖥️  See my [portfolio](https://hasnainmakada-99.github.io) hosted by [github](http://github.com)
-### * ✉️  You can contact me at [my mail](mailto:hasnainmakada@gmail.com)
-### * 🧠  I'm currently learning DevOps, DSA & Flutter
-### * 🤝  I'm open to collaborate on All types of Open Source Projects
-### * :memo: I'm also a blogger at [hashnode](http://hasnainm.hashnode.dev) and [showwcase](http://showwcase.com/hasnainmakada-99)
-### * ⚡  And I'm also a bibliophile
+* 🌍  I'm based in India
+* 🖥️  See my [portfolio](https://hasnainmakada-99.github.io) hosted by [github](http://github.com)
+* ✉️  You can contact me at [my mail](mailto:hasnainmakada@gmail.com)
+* 🧠  I'm currently learning DevOps, DSA & Flutter
+* 🤝  I'm open to collaborate on All types of Open Source Projects
+* :memo: I'm also a blogger at [hashnode](http://hasnainm.hashnode.dev) and [showwcase](http://showwcase.com/hasnainmakada-99)
+* ⚡  And I'm also a bibliophile
 
 <font size="3">**I mainly work in DevOps and Flutter where I am mostly intrested in Android Development and learn new DevOps tools to understand how the Software Engineering cycle works. Along with that, I also maintain an open source project "Open Source wit Hasnain" which is completely intented for beginners who are new to open source  or just getting started with it. They can get thousands of resourcs for free from there.**</font>
 
