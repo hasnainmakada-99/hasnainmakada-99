@@ -119,14 +119,14 @@ Hey everyone I am Hasnain Makada, currently working as a Developer Advocate at N
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#91](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/91) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. 🎉 Merged PR [#93](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/93) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🗣 Commented on [#92](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/92) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-4. 🎉 Merged PR [#92](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/92) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-5. ❗️ Opened issue [#90](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/90) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. ❗️ Opened issue [#89](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/89) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. ❗️ Closed issue [#88](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/88) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. ❗️ Closed issue [#88](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/88) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-9. 💪 Opened PR [#33](https://github.com/Pradumnasaraf/DevOps/pull/33) in [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)
-10. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/DevOps/pull/1) in [hasnainmakada-99/DevOps](https://github.com/hasnainmakada-99/DevOps)
+1. ❗️ Opened issue [#1695](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1695) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#17](https://github.com/Dun-sin/react-open-source-projects/issues/17) in [Dun-sin/react-open-source-projects](https://github.com/Dun-sin/react-open-source-projects)
+3. ❗️ Closed issue [#91](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/91) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🎉 Merged PR [#93](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/93) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+5. 🗣 Commented on [#92](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/92) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🎉 Merged PR [#92](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/92) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+7. ❗️ Opened issue [#90](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/90) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+8. ❗️ Opened issue [#89](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/89) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. ❗️ Closed issue [#88](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/88) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+10. ❗️ Closed issue [#88](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/88) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 <!--END_SECTION:activity-->
