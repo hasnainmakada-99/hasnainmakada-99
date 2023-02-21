@@ -119,14 +119,14 @@ Hey everyone I am Hasnain Makada, currently building out Open Source with Hasnai
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/97) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. 🗣 Commented on [#1489](https://github.com/elebumm/RedditVideoMakerBot/issues/1489) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-3. ❗️ Opened issue [#1489](https://github.com/elebumm/RedditVideoMakerBot/issues/1489) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-4. 🗣 Commented on [#103](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/103) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-5. 🎉 Merged PR [#104](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/104) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. 💪 Opened PR [#104](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/104) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. 💪 Opened PR [#1727](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1727) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-8. 🗣 Commented on [#912](https://github.com/reactplay/react-play/issues/912) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 💪 Opened PR [#959](https://github.com/reactplay/react-play/pull/959) in [reactplay/react-play](https://github.com/reactplay/react-play)
-10. 🗣 Commented on [#953](https://github.com/reactplay/react-play/issues/953) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#107](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/107) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. 🗣 Commented on [#97](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/97) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. 🗣 Commented on [#1489](https://github.com/elebumm/RedditVideoMakerBot/issues/1489) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+4. ❗️ Opened issue [#1489](https://github.com/elebumm/RedditVideoMakerBot/issues/1489) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+5. 🗣 Commented on [#103](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/103) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🎉 Merged PR [#104](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/104) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+7. 💪 Opened PR [#104](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/104) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+8. 💪 Opened PR [#1727](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1727) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+9. 🗣 Commented on [#912](https://github.com/reactplay/react-play/issues/912) in [reactplay/react-play](https://github.com/reactplay/react-play)
+10. 💪 Opened PR [#959](https://github.com/reactplay/react-play/pull/959) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
