@@ -1,8 +1,7 @@
 ![Showwcase and twitter header](https://user-images.githubusercontent.com/82728823/201467777-24996a21-ac61-4b7e-a726-85b7f8d67aa9.png)
 
 
-Hey everyone 👋 I am Hasnain Makada :smiley:
-===============================
+<h1 align="center">Hey everyone 👋 I am Hasnain Makada :smiley:</h1>
 
 Building out [OSWH](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain) | Tech Geek | DevOps & Flutter :blue_heart: | Android Dev. | Blogger at [Hashnode](https://hasnainm.hashnode.dev) and [Showwcase](https://showwcase.com/hasnainmakada-99)
 ----------------------------------------------------------------------------------------------------------------------------------------
