@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey everyone 👋 I am Hasnain Makada :smiley:</h1>
 
-Building out [OSWH](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain) | Tech Geek | DevOps & Flutter :blue_heart: | Android Dev. | Blogger at [Hashnode](https://hasnainm.hashnode.dev) and [Showwcase](https://showwcase.com/hasnainmakada-99)
+Rotational Tech Writer @[Showwcase](https://showwcase.com) | Building out [OSWH](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain) | Tech Geek | DevOps & Flutter :blue_heart: | Android Dev. | Blogger at [Hashnode](https://hasnainm.hashnode.dev) and [Showwcase](https://showwcase.com/hasnainmakada-99)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 **I am a 19 year old student currently pursuing my B.Tech in Computer Engineering and building out '_**Open Source with Hasnain**_' with a keen interest in contributing to Open Source and Android projects. Looking for an opportunity to work in a leading organization in a challenging position where I can apply my skills to build out great softwares.**
