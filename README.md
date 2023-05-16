@@ -119,14 +119,14 @@ Hey everyone I am Hasnain Makada, Currently building out OSWH where I encourage 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#137](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/137) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. ❗️ Opened issue [#136](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/136) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🗣 Commented on [#133](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/133) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-4. ❌ Closed PR [#135](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/135) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-5. 🗣 Commented on [#135](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/135) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. 🗣 Commented on [#134](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/134) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+1. 🗣 Commented on [#136](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/136) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. ❗️ Opened issue [#137](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/137) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. ❗️ Opened issue [#136](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/136) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🗣 Commented on [#133](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/133) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+5. ❌ Closed PR [#135](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/135) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🗣 Commented on [#135](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/135) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 7. 🗣 Commented on [#134](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/134) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. ❗️ Opened issue [#134](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/134) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-9. ❗️ Opened issue [#133](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/133) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-10. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/Encouraging-Bot-Discord/pull/1) in [hasnainmakada-99/Encouraging-Bot-Discord](https://github.com/hasnainmakada-99/Encouraging-Bot-Discord)
+8. 🗣 Commented on [#134](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/134) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. ❗️ Opened issue [#134](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/134) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+10. ❗️ Opened issue [#133](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/133) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 <!--END_SECTION:activity-->
