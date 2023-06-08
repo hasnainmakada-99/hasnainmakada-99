@@ -11,8 +11,8 @@ Rotational Tech Writer @[Showwcase](https://showwcase.com) | Building out [OSWH]
 * 🌍  I'm based in India
 * 🖥️  See my [portfolio](https://hasnainmakada-99.github.io) hosted by [github](http://github.com)
 * ✉️  You can contact me at [my mail](mailto:hasnainmakada@gmail.com)
-* 🧠  I'm currently learning DevOps, DSA & Flutter
-* 🤝  I'm open to collaborate on All types of Open Source Projects
+* 📝  I'm currently learning DevOps, DSA & Flutter
+* 👐 I'm open to collaborate on All types of Open Source Projects
 * :memo: I'm also a blogger at [hashnode](http://hasnainm.hashnode.dev) and [showwcase](http://showwcase.com/hasnainmakada-99)
 * ⚡  And I'm also a bibliophile
 
