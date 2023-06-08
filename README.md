@@ -16,7 +16,7 @@ Rotational Tech Writer @[Showwcase](https://showwcase.com) | Building out [OSWH]
 * :memo: I'm also a blogger at [hashnode](http://hasnainm.hashnode.dev) and [showwcase](http://showwcase.com/hasnainmakada-99)
 * ⚡  And I'm also a bibliophile
 
-<font size="3">**I mainly work in DevOps and Flutter where I am mostly interested in Android Development and learn new DevOps tools to understand how the Software Engineering cycle works. Along with that, I also maintain an open source project "Open Source with Hasnain" which is completely intended for beginners who are new to open source or just getting started with it. They can get thousands of resources for free from there.**</font>
+**I mainly work in DevOps and Flutter where I am mostly interested in Android Development and learn new DevOps tools to understand how the Software Engineering cycle works. Along with that, I also maintain an open source project "Open Source with Hasnain" which is completely intended for beginners who are new to open source or just getting started with it. They can get thousands of resources for free from there.**
 
 <font size="3">**Check out [Open source with Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)**</font>
 
