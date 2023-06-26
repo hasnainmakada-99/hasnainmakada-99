@@ -120,13 +120,13 @@ Hey everyone I am Hasnain Makada, Currently building out OSWH where I encourage 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#152](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/152) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. 🗣 Commented on [#146](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/146) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🗣 Commented on [#146](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/146) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-4. 🔒 Closed issue [#149](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/149) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-5. ❗ Opened issue [#19](https://github.com/Dun-sin/react-open-source-projects/issues/19) in [Dun-sin/react-open-source-projects](https://github.com/Dun-sin/react-open-source-projects)
-6. 🗣 Commented on [#145](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/145) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. 🗣 Commented on [#146](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/146) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. 💪 Opened PR [#18](https://github.com/Dun-sin/react-open-source-projects/pull/18) in [Dun-sin/react-open-source-projects](https://github.com/Dun-sin/react-open-source-projects)
-9. 🗣 Commented on [#149](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/149) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-10. 🗣 Commented on [#149](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/149) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. 🗣 Commented on [#152](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/152) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. 🗣 Commented on [#152](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/152) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🗣 Commented on [#146](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/146) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+5. 🗣 Commented on [#146](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/146) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🔒 Closed issue [#149](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/149) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+7. ❗ Opened issue [#19](https://github.com/Dun-sin/react-open-source-projects/issues/19) in [Dun-sin/react-open-source-projects](https://github.com/Dun-sin/react-open-source-projects)
+8. 🗣 Commented on [#145](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/145) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. 🗣 Commented on [#146](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/146) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+10. 💪 Opened PR [#18](https://github.com/Dun-sin/react-open-source-projects/pull/18) in [Dun-sin/react-open-source-projects](https://github.com/Dun-sin/react-open-source-projects)
 <!--END_SECTION:activity-->
