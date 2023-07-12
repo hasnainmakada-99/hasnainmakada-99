@@ -119,14 +119,14 @@ Hey everyone I am Hasnain Makada, Currently building out OSWH where I encourage 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/Pradumnasaraf/DevOps/pull/76) in [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)
-2. 🗣 Commented on [#158](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/158) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🗣 Commented on [#258](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/258) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-4. 🗣 Commented on [#153](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/153) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+1. 🗣 Commented on [#158](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/158) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. 💪 Opened PR [#76](https://github.com/Pradumnasaraf/DevOps/pull/76) in [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)
+3. 🗣 Commented on [#158](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/158) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🗣 Commented on [#258](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/258) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 5. 🗣 Commented on [#153](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/153) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. 🗣 Commented on [#145](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/145) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🗣 Commented on [#153](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/153) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 7. 🗣 Commented on [#145](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/145) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. 💪 Opened PR [#258](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/258) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-9. 🗣 Commented on [#257](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/257) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-10. ❗ Opened issue [#257](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/257) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+8. 🗣 Commented on [#145](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/145) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. 💪 Opened PR [#258](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/258) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+10. 🗣 Commented on [#257](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/257) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 <!--END_SECTION:activity-->
