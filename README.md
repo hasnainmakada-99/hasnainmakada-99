@@ -65,20 +65,20 @@ Rotational Tech Writer @[Showwcase](https://showwcase.com) | Building out [OSWH]
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://hasnainm.hashnode.dev//creating-a-discord-bot-with-javascript" title="Creating a Discord Bot with JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683527507675/3c8aa13f-7b97-4551-8241-6dae84677c18.png" alt="Creating a Discord Bot with JavaScript"   /></a>
+<table><tr><td><a href="https://hasnainm.hashnode.dev//flutter-web-app-to-azure-app-service-with-node-js" title="Flutter web app to Azure App Service with Node JS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690624035244/da2706c1-4b66-4303-911a-677a60ebc97d.png" alt="Flutter web app to Azure App Service with Node JS"   /></a>
+<a href="https://hasnainm.hashnode.dev//flutter-web-app-to-azure-app-service-with-node-js" title="Flutter web app to Azure App Service with Node JS"><strong>Flutter web app to Azure App Service with Node JS</strong></a>
+<br/> Introduction
+Hey everyone, I am Hasnain Makada and I am currently a Rotational Super Writer at Showwcase where I create content on tech and educate the community regarding DevOps and Flutter.
+In this blog, I will show you how you can deploy your Flut...</td><td><a href="https://hasnainm.hashnode.dev//azure-container-registry-cicd-workflow-with-github-actions" title="Azure Container Registry CI/CD workflow with Github Actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690623605079/8dabf006-63b6-46b6-b31f-3df991d573e8.png" alt="Azure Container Registry CI/CD workflow with Github Actions"   /></a>
+<a href="https://hasnainm.hashnode.dev//azure-container-registry-cicd-workflow-with-github-actions" title="Azure Container Registry CI/CD workflow with Github Actions"><strong>Azure Container Registry CI/CD workflow with Github Actions</strong></a>
+<br/> Introduction
+Hey everyone, I am Hasnain Makada currently working as a Rotational Super Writer at Showwcase where I create content on tech and explore new technologies and teach everyone. In this blog, I am going to teach you how you can set up a GitH...</td></tr><tr><td><a href="https://hasnainm.hashnode.dev//creating-a-discord-bot-with-javascript" title="Creating a Discord Bot with JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683527507675/3c8aa13f-7b97-4551-8241-6dae84677c18.png" alt="Creating a Discord Bot with JavaScript"   /></a>
 <a href="https://hasnainm.hashnode.dev//creating-a-discord-bot-with-javascript" title="Creating a Discord Bot with JavaScript"><strong>Creating a Discord Bot with JavaScript</strong></a>
 <br/> Introduction
 Hey everyone, I am Hasnain Makada and I am currently a Founding Creator and a Chief Creative Officer at Showwcase where I create meaningful content for the community and build a global developer community network for folks around the wor...</td><td><a href="https://hasnainm.hashnode.dev//host-a-web-app-on-microsoft-azure-using-azure-container-registry" title="Host a Web App on Microsoft Azure using Azure Container Registry"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680590929206/04f64f6e-e3ae-48bd-bd8f-4393adb18a98.png" alt="Host a Web App on Microsoft Azure using Azure Container Registry"   /></a>
 <a href="https://hasnainm.hashnode.dev//host-a-web-app-on-microsoft-azure-using-azure-container-registry" title="Host a Web App on Microsoft Azure using Azure Container Registry"><strong>Host a Web App on Microsoft Azure using Azure Container Registry</strong></a>
 <br/> Introduction
-Hey everyone, I am Hasnain Makada and I am currently building out "Open Source with Hasnain" where I encourage every beginner to contribute to open source and network with like-minded folks. I am also a quality crew at Showwcase and a be...</td></tr><tr><td><a href="https://hasnainm.hashnode.dev//http-server-using-go" title="HTTP-Server using GO"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678117545392/c0f309a6-c65e-46b2-abe4-98c394b6faa0.png" alt="HTTP-Server using GO"   /></a>
-<a href="https://hasnainm.hashnode.dev//http-server-using-go" title="HTTP-Server using GO"><strong>HTTP-Server using GO</strong></a>
-<br/> Introduction
-Hey everyone, I am Hasnain Makada and I am currently building out "Open source with Hasnain" where I encourage every beginner to get started contributing to open source and network with amazing folks out there.
-In this blog, I am going t...</td><td><a href="https://hasnainm.hashnode.dev//open-source-tips" title="Open Source Tips"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676180565036/f8f43216-6c34-44ee-80f4-af4deb5de5c5.png" alt="Open Source Tips"   /></a>
-<a href="https://hasnainm.hashnode.dev//open-source-tips" title="Open Source Tips"><strong>Open Source Tips</strong></a>
-<br/> Introduction
-Hey everyone I am Hasnain Makada, Currently building out OSWH where I encourage every beginner to get started with contributing to open source and I also write blogs on DevOps, Flutter & Open-Source on Hashnode and Showwcase. You can che...</td></tr></table>
+Hey everyone, I am Hasnain Makada and I am currently building out "Open Source with Hasnain" where I encourage every beginner to contribute to open source and network with like-minded folks. I am also a quality crew at Showwcase and a be...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ### Tools
