@@ -30,7 +30,7 @@ I'm a 19-year-old tech enthusiast on a mission! Currently, I'm on the exciting j
 
 ## My Focus
 
-I specialize in DevOps and Flutter, with a keen interest in Cross platform development. I continuously expand my skill set by learning new DevOps tools and gaining insights into the Software Engineering cycle. Additionally, I maintain the open-source project "Open Source with Hasnain," designed especially for beginners looking to dive into the world of open source. It's a treasure trove of resources for newcomers.
+I specialize in DevOps and Flutter, with a keen interest in Cross platform development. I continuously expand my skill set by learning new DevOps tools and gaining insights into the Software Engineering cycle. Additionally, I maintain the open-source project "**Open Source with Hasnain**," designed especially for beginners looking to dive into the world of open source. It's a treasure trove of resources for newcomers.
 
 ### Explore [Open Source with Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 
