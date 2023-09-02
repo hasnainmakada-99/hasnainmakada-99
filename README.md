@@ -1,6 +1,6 @@
 ![Showwcase and twitter header](https://user-images.githubusercontent.com/82728823/201467777-24996a21-ac61-4b7e-a726-85b7f8d67aa9.png)
 
-# Hey there, I'm Hasnain Makada! 👋
+<h1> <center>Hey everyone, I'm Hasnain Makada! 👋</center> </h1>
 
 ## About Me
 
