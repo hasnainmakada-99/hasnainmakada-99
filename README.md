@@ -153,14 +153,14 @@ In this blog, I will show you how you can deploy your Flut...</td></tr></table>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#170](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/170#issuecomment-1706999943) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. 🗣 Commented on [#164](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/164#issuecomment-1705666453) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🗣 Commented on [#164](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/164#issuecomment-1704391065) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-4. 🗣 Commented on [#1](https://github.com/DoonOnthon/GamePulse/issues/1#issuecomment-1703694356) in [DoonOnthon/GamePulse](https://github.com/DoonOnthon/GamePulse)
-5. 🗣 Commented on [#166](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/166#issuecomment-1699535018) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. 🎉 Merged PR [#168](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/168) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. 🗣 Commented on [#166](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/166#issuecomment-1689999116) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. 🗣 Commented on [#163](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/163#issuecomment-1689994482) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-9. ❌ Closed PR [#167](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/167) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-10. 🗣 Commented on [#163](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/163#issuecomment-1683689311) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+1. 🔒 Closed issue [#166](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/166) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. ❌ Closed PR [#170](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/170) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. 🗣 Commented on [#170](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/170#issuecomment-1716999795) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🗣 Commented on [#170](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/170#issuecomment-1706999943) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+5. 🗣 Commented on [#164](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/164#issuecomment-1705666453) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🗣 Commented on [#164](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/164#issuecomment-1704391065) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+7. 🗣 Commented on [#1](https://github.com/DoonOnthon/GamePulse/issues/1#issuecomment-1703694356) in [DoonOnthon/GamePulse](https://github.com/DoonOnthon/GamePulse)
+8. 🗣 Commented on [#166](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/166#issuecomment-1699535018) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. 🎉 Merged PR [#168](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/168) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+10. 🗣 Commented on [#166](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/166#issuecomment-1689999116) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 <!--END_SECTION:activity-->
