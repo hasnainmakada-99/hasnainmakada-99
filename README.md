@@ -153,14 +153,14 @@ In this blog, I will show you how you can deploy your Flut...</td></tr></table>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#185](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/185) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. 🎉 Merged PR [#192](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/192) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🎉 Merged PR [#190](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/190) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-4. 🗣 Commented on [#190](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/190#issuecomment-1754231348) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-5. 🎉 Merged PR [#191](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/191) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. 🗣 Commented on [#163](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/163#issuecomment-1751667663) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. 🗣 Commented on [#163](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/163#issuecomment-1749865421) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. 🎉 Merged PR [#189](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/189) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-9. 🗣 Commented on [#184](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/184#issuecomment-1749863381) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-10. 🎉 Merged PR [#188](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/188) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+1. 🔒 Closed issue [#163](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/163) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+2. 🗣 Commented on [#175](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/175#issuecomment-1754257992) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. 🎉 Merged PR [#185](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/185) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🎉 Merged PR [#192](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/192) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+5. 🎉 Merged PR [#190](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/190) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. 🗣 Commented on [#190](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/190#issuecomment-1754231348) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+7. 🎉 Merged PR [#191](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/191) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+8. 🗣 Commented on [#163](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/163#issuecomment-1751667663) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. 🗣 Commented on [#163](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/163#issuecomment-1749865421) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+10. 🎉 Merged PR [#189](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/189) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 <!--END_SECTION:activity-->
