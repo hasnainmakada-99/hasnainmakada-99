@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🚀 Elite Flutter Developer at [Showwcase](https://showwcase.com)
+- 🚀 Elite at [Showwcase](https://showwcase.com)
 - 🔧 Building [Open Source with Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 - 👾 Tech Geek | DevOps & Flutter Enthusiast 💙
 - 📱 Android Developer
