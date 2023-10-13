@@ -10,7 +10,7 @@
 - 📱 Android Developer
 - ✍️ Blogger at [Hashnode](https://hasnainm.hashnode.dev) and [Showwcase](https://showwcase.com/hasnainmakada-99)
 
-I'm a 19-year-old tech enthusiast on a mission! Currently, I'm on the exciting journey of pursuing my B.Tech in Computer Engineering. But that's just the beginning. My heart beats for Open Source and developing cross platform applications, and I'm on the lookout for opportunities to unleash my coding superpowers in a dynamic, cutting-edge organization. Together, let's craft exceptional software that redefines the game! 🚀💻
+I'm a 19-year-old tech enthusiast on a mission! Currently, I'm on the exciting journey of pursuing my B.Tech in Computer Engineering. But that's just the beginning. My heart beats for Open Source and developing cross-platform applications, and I'm on the lookout for opportunities to unleash my coding superpowers in a dynamic, cutting-edge organization. Together, let's craft exceptional software that redefines the game! 🚀💻
 
 ## Quick Facts
 
