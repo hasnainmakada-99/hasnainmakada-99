@@ -152,14 +152,14 @@ Hey everyone, I am Hasnain Makada. I am building out Open Source with Hasnain wh
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#180](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/180#issuecomment-1873171698) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-2. 🔒 Closed issue [#180](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/180) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 🗣 Commented on [#200](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/200#issuecomment-1873171567) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-4. 🔒 Closed issue [#200](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/200) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-5. ❌ Closed PR [#208](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/208) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-6. 🗣 Commented on [#208](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/208#issuecomment-1873171409) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-7. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1873157162) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1872993794) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1872987853) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-10. 🗣 Commented on [#273](https://github.com/SaptarshiSarkar12/Drifty/issues/273#issuecomment-1871843153) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1878147094) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#180](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/180#issuecomment-1873171698) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+3. 🔒 Closed issue [#180](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/180) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 🗣 Commented on [#200](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/200#issuecomment-1873171567) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+5. 🔒 Closed issue [#200](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/200) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+6. ❌ Closed PR [#208](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/208) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+7. 🗣 Commented on [#208](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pull/208#issuecomment-1873171409) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+8. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1873157162) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+9. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1872993794) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+10. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1872987853) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
