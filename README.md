@@ -152,14 +152,14 @@ Hey everyone, I am Hasnain Makada. I am building out Open Source with Hasnain wh
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/AWS-Learning-Path/pull/1) in [hasnainmakada-99/AWS-Learning-Path](https://github.com/hasnainmakada-99/AWS-Learning-Path)
-2. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1905771294) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-3. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1903683827) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-4. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1890360482) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1878148731) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1878147094) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-7. 🗣 Commented on [#180](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/180#issuecomment-1873171698) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-8. 🔒 Closed issue [#180](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/180) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-9. 🗣 Commented on [#200](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/200#issuecomment-1873171567) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-10. 🔒 Closed issue [#200](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/200) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+1. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1943017875) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/AWS-Learning-Path/pull/1) in [hasnainmakada-99/AWS-Learning-Path](https://github.com/hasnainmakada-99/AWS-Learning-Path)
+3. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1905771294) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+4. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1903683827) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+5. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1890360482) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1878148731) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1878147094) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+8. 🗣 Commented on [#180](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/180#issuecomment-1873171698) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+9. 🔒 Closed issue [#180](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/180) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+10. 🗣 Commented on [#200](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/200#issuecomment-1873171567) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 <!--END_SECTION:activity-->
