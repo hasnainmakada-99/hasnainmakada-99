@@ -44,6 +44,6 @@ jobs:
         with:
           HASHNODE_PUBLICATION_NAME: 'hasnainm.hashnode.dev'
           POST_COUNT: 4
-          FORMAT: 'list'
+          FORMAT: 'stacked'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
