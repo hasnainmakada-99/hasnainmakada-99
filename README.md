@@ -97,10 +97,18 @@ I specialize in DevOps and Flutter, with a keen interest in Cross platform devel
 ## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-- [Performing Image Labelling in Flutter](https://hasnainm.hashnode.dev/performing-image-labelling-in-flutter)
-- [Let's understand Internationalizing in Flutter](https://hasnainm.hashnode.dev/lets-understand-internationalizing-in-flutter)
-- [Building Your Own Google Docs: Crafting a Dynamic Flutter Clone!](https://hasnainm.hashnode.dev/building-your-own-google-docs-crafting-a-dynamic-flutter-clone)
-- [A Guide to Understanding the ADD and COPY Commands in Dockerfile](https://hasnainm.hashnode.dev/a-guide-to-understanding-the-add-and-copy-commands-in-dockerfile)
+<p align="left"><a href="https://hasnainm.hashnode.dev/performing-image-labelling-in-flutter" title="Performing Image Labelling in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704087299705/257c28b9-dc5f-409d-8358-1e00fb16d0e1.png" alt="Performing Image Labelling in Flutter" width="300px" align="left" /></a><a href="https://hasnainm.hashnode.dev/performing-image-labelling-in-flutter" title="Performing Image Labelling in Flutter"><strong>Performing Image Labelling in Flutter</strong></a><div><strong>January 22, 2024</strong></div><br/>Introduction
+Hey everyone, I am Hasnain Makada, a member of the Elite Collective at Showwcase and building out Open Source with Hasnain with a strong aim to make open source contributions easy and mak...</p><br/><br/>
+
+<p align="left"><a href="https://hasnainm.hashnode.dev/lets-understand-internationalizing-in-flutter" title="Let's understand Internationalizing in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697088790267/a0b139c6-e085-4457-89b7-7260101215ac.png" alt="Let's understand Internationalizing in Flutter" width="300px" align="left" /></a><a href="https://hasnainm.hashnode.dev/lets-understand-internationalizing-in-flutter" title="Let's understand Internationalizing in Flutter"><strong>Let's understand Internationalizing in Flutter</strong></a><div><strong>October 23, 2023</strong></div><br/>Introduction
+Hey everyone, I am Hasnain Makada and currently, I am working as an Elite Flutter Developer with Showwcase where I work on projects by partner companies and enhance my skills. I also have...</p><br/><br/>
+
+<p align="left"><a href="https://hasnainm.hashnode.dev/building-your-own-google-docs-crafting-a-dynamic-flutter-clone" title="Building Your Own Google Docs: Crafting a Dynamic Flutter Clone!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691076553111/03c1c1a4-0f69-4c38-a154-78e5c2c3eef0.png" alt="Building Your Own Google Docs: Crafting a Dynamic Flutter Clone!" width="300px" align="left" /></a><a href="https://hasnainm.hashnode.dev/building-your-own-google-docs-crafting-a-dynamic-flutter-clone" title="Building Your Own Google Docs: Crafting a Dynamic Flutter Clone!"><strong>Building Your Own Google Docs: Crafting a Dynamic Flutter Clone!</strong></a><div><strong>August 12, 2023</strong></div><br/>Introduction
+Hey everyone, I am Hasnain Makada and I am currently working as an Elite Junior Flutter Dev. at Showwcase. I also have an Open source project for my open-source community named Open-Sourc...</p><br/><br/>
+
+<p align="left"><a href="https://hasnainm.hashnode.dev/a-guide-to-understanding-the-add-and-copy-commands-in-dockerfile" title="A Guide to Understanding the ADD and COPY Commands in Dockerfile"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690624991397/2830cc7f-9aaf-41ab-8ab9-bf9cc3866af9.png" alt="A Guide to Understanding the ADD and COPY Commands in Dockerfile" width="300px" align="left" /></a><a href="https://hasnainm.hashnode.dev/a-guide-to-understanding-the-add-and-copy-commands-in-dockerfile" title="A Guide to Understanding the ADD and COPY Commands in Dockerfile"><strong>A Guide to Understanding the ADD and COPY Commands in Dockerfile</strong></a><div><strong>July 29, 2023</strong></div><br/>Introduction
+Hey everyone, I am Hasnain Makada, and I am currently working as a Rotational Super Writer at Showwcase where I produce high-quality content on tech and make it understandable in a simple...</p><br/><br/>
+
 
 <!-- HASHNODE_BLOG:END -->
 
