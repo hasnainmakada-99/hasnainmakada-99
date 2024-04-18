@@ -152,14 +152,14 @@ Hey everyone, I am Hasnain Makada, and I am currently working as a Rotational Su
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#563](https://github.com/OpenDevin/OpenDevin/issues/563#issuecomment-2031769387) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
-2. 🗣 Commented on [#563](https://github.com/OpenDevin/OpenDevin/issues/563#issuecomment-2031763311) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
-3. 🗣 Commented on [#563](https://github.com/OpenDevin/OpenDevin/issues/563#issuecomment-2031645356) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
-4. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1974892835) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-5. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1943017875) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-6. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/AWS-Learning-Path/pull/1) in [hasnainmakada-99/AWS-Learning-Path](https://github.com/hasnainmakada-99/AWS-Learning-Path)
-7. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1905771294) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-8. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1903683827) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
-9. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1890360482) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+1. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-2063024547) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+2. 🗣 Commented on [#563](https://github.com/OpenDevin/OpenDevin/issues/563#issuecomment-2031769387) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
+3. 🗣 Commented on [#563](https://github.com/OpenDevin/OpenDevin/issues/563#issuecomment-2031763311) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
+4. 🗣 Commented on [#563](https://github.com/OpenDevin/OpenDevin/issues/563#issuecomment-2031645356) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
+5. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1974892835) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+6. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1943017875) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+7. 🎉 Merged PR [#1](https://github.com/hasnainmakada-99/AWS-Learning-Path/pull/1) in [hasnainmakada-99/AWS-Learning-Path](https://github.com/hasnainmakada-99/AWS-Learning-Path)
+8. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1905771294) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
+9. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1903683827) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 10. 🗣 Commented on [#378](https://github.com/SaptarshiSarkar12/Drifty/pull/378#issuecomment-1878148731) in [SaptarshiSarkar12/Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 <!--END_SECTION:activity-->
