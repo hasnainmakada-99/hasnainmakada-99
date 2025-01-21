@@ -70,7 +70,10 @@ const hasnain = {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated by the workflow -->
+- [Performing Image Labelling in Flutter](https://hasnainm.hashnode.dev/performing-image-labelling-in-flutter)
+- [Let&#39;s understand Internationalizing in Flutter](https://hasnainm.hashnode.dev/lets-understand-internationalizing-in-flutter)
+- [Building Your Own Google Docs: Crafting a Dynamic Flutter Clone!](https://hasnainm.hashnode.dev/building-your-own-google-docs-crafting-a-dynamic-flutter-clone)
+- [A Guide to Understanding the ADD and COPY Commands in Dockerfile](https://hasnainm.hashnode.dev/a-guide-to-understanding-the-add-and-copy-commands-in-dockerfile)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🤝 Let's Connect!
