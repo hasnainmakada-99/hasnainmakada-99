@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hasnain%20Makada&fontSize=80&animation=fadeIn" />
 </div>
 
+![Profile Views](https://komarev.com/ghpvcounter/?username=hasnainmakada-99)
+
 <h3 align="center">🚀 DevOps Engineer | Flutter Developer | Open Source Enthusiast</h3>
 
 <p align="center">
