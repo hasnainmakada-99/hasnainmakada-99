@@ -60,7 +60,7 @@ const hasnain = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasnainmakada-99&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainmakada-99&theme=radical" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=hasnainmakada-99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=496" alt="GitHub Streaks"/>
 </div>
 
 ### 📊 GitHub Metrics
