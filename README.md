@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hasnain%20Makada&fontSize=80&animation=fadeIn" />
 </div>
 
-<h3 align="center">🚀 DevOps Engineer | Flutter Developer | Open Source Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Founder | Flutter Developer | Open Source Enthusiast</h3>
 
 <p align="center">
   <a href="https://hasnainm.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-Blog-blue?style=for-the-badge&logo=hashnode"/></a>
