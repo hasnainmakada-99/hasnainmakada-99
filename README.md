@@ -1,19 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hasnain%20Makada&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Excellence&descAlignY=51&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Hasnain%20Makada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Excellence&descAlignY=51&descSize=16" />
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Flutter+Developer+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+CodeSphere+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
-</h1>
 
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://www.codesphere.agency)
-  [![Blog](https://img.shields.io/badge/📝_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hasnainm.hashnode.dev)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnain-makada-5b47271aa)
-  [![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hasnain_Makada)
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%F0%9F%9A%80;Flutter+Developer+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+CodeSphere+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <a href="https://www.codesphere.agency">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://hasnainm.hashnode.dev">
+    <img src="https://img.shields.io/badge/📝_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hasnain-makada-5b47271aa">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Hasnain_Makada">
+    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hasnainmakada-99&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
@@ -22,7 +28,7 @@
 
 <br>
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;">
 
 ## 🚀 About Me
 
@@ -56,7 +62,8 @@ console.log(`${hasnain.name} is building the future, one commit at a time! 🚀`
 
 ## 🎯 Current Mission
 
-<table>
+<div align="center">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -78,6 +85,7 @@ console.log(`${hasnain.name} is building the future, one commit at a time! 🚀`
 </td>
 </tr>
 </table>
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -123,22 +131,22 @@ console.log(`${hasnain.name} is building the future, one commit at a time! 🚀`
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasnainmakada-99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmakada-99&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasnainmakada-99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" style="max-width: 48%; height: auto;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmakada-99&layout=compact&theme=tokyonight&hide_border=true" style="max-width: 48%; height: auto;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainmakada-99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainmakada-99&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnainmakada-99&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnainmakada-99&theme=tokyo-night&hide_border=true" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
 </div>
 
 ## 📊 Detailed Metrics
 
 <div align="center">
-  <img src="/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%"/>
+  <img src="/github-metrics.svg" alt="Detailed GitHub Metrics" style="max-width: 100%; height: auto;"/>
 </div>
 
 ## 🌟 Featured Projects
@@ -215,6 +223,6 @@ graph LR
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=100&section=footer" />
   
 </div>
