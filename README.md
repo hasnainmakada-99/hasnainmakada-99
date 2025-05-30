@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Hasnain%20Makada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Excellence&descAlignY=51&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Hasnain%20Makada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Crafting%20Digital%20Excellence&descAlignY=51&descSize=16" />
 </div>
 
 <div align="center">
@@ -28,7 +28,10 @@
 
 <br>
 
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;">
+<center><img align="center" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;"></center>
+
+
+<br>
 
 ## 🚀 About Me
 
