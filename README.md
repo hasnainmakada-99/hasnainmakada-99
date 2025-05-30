@@ -28,7 +28,9 @@
 
 <br>
 
-<center><img align="center" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;"></center>
+<div align="center">
+<img align="center" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;">
+</div>
 
 
 <br>
