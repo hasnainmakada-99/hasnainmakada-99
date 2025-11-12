@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.codesphere.agency" target="_blank">
+  <a href="https://hasnain.codesphere.agency" target="_blank">
     <img src="https://img.shields.io/badge/🦇_BATCAVE-000000?style=for-the-badge&logoColor=FFD700"/>
   </a>
   <a href="https://hasnainm.hashnode.dev" target="_blank">
@@ -87,6 +87,7 @@ const batmanDev: DarkKnight = {
     "🌃  Cross-platform Mobile Development",
     "🔱  CI/CD Pipeline Automation",
     "🛡️  Infrastructure as Code (Terraform)",
+    "🤖  AI/ML Integration & Prompt Engineering",
   ],
   
   training: [
@@ -118,7 +119,7 @@ console.log(`When Gotham's code needs saving, ${batmanDev.codeName} answers the 
 
 <img src="https://img.shields.io/badge/Guardian-CodeSphere-FFD700?style=flat-square&logo=rocket&logoColor=000000&labelColor=000000"/>
 
-- **🦇 [CodeSphere - The Batcave](https://www.codesphere.agency)** 
+- **🦇 [CodeSphere - The Batcave](https://hasnain.codesphere.agency)** 
   - Leading digital fortress of innovation
   - Deploying enterprise-grade defense systems
   - 20+ missions completed successfully
@@ -233,8 +234,8 @@ console.log(`When Gotham's code needs saving, ${batmanDev.codeName} answers the 
 - **AI/ML Integration** - Artificial intelligence for crime prediction
 
 #### 🏆 Certifications & Combat Badges
-- ⚡ Azure DevOps Engineer Expert (Training in Progress)
-- ⚡ AWS Solutions Architect (Preparing for Final Test)
+- ⚡ Azure DevOps Engineer Expert (In Progress - 75% Complete)
+- ⚡ AWS Solutions Architect (In Progress - 60% Complete)
 - ⚡ Google Flutter Developer Certification (Achieved)
 - ⚡ Multiple Hackathon Victories & Recognition
 
@@ -302,12 +303,12 @@ console.log(`When Gotham's code needs saving, ${batmanDev.codeName} answers the 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Total_Repositories-50+-FFD700?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Total_Repositories-85+-FFD700?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000"/>
       <br><b>Code Fortresses</b>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Total_Commits-1000+-FFD700?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000"/>
-      <br><b>Missions (2024)</b>
+      <br><b>Missions (2025)</b>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Total_PRs-200+-FFD700?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000"/>
@@ -346,7 +347,7 @@ console.log(`When Gotham's code needs saving, ${batmanDev.codeName} answers the 
 <tr>
 <td width="50%" valign="top">
 
-#### 🏢 [CodeSphere - The Batcave](https://www.codesphere.agency)
+#### 🏢 [CodeSphere - The Batcave](https://hasnain.codesphere.agency)
 **Digital Innovation Fortress**
 
 <img src="https://img.shields.io/badge/Status-🦇_OPERATIONAL-success?style=flat-square&labelColor=000000&color=FFD700"/> <img src="https://img.shields.io/badge/Allies-20+-blue?style=flat-square&labelColor=000000&color=FFD700"/>
@@ -364,7 +365,7 @@ A fortified digital agency transforming ideas into impenetrable, enterprise-grad
 - 95% mission success rate
 - $500K+ in defensive contracts
 
-[🦇 Enter the Batcave](https://www.codesphere.agency)
+[🦇 Enter the Batcave](https://hasnain.codesphere.agency)
 
 </td>
 <td width="50%" valign="top">
@@ -411,35 +412,35 @@ A thriving alliance training the next generation of code heroes.
 <td>Telemedicine platform protecting citizens' health</td>
 <td>Flutter • Firebase • WebRTC</td>
 <td>🦇 Active</td>
-<td><a href="#">Files</a></td>
+<td>🔒 Private</td>
 </tr>
 <tr>
 <td><b>🛒 Commerce Shield</b></td>
 <td>Secure e-commerce fortress with encrypted payments</td>
 <td>React • Node.js • MongoDB</td>
 <td>🦇 Live</td>
-<td><a href="#">View</a></td>
+<td>🔒 Private</td>
 </tr>
 <tr>
 <td><b>☁️ Cloud Migrator</b></td>
 <td>Automated infrastructure migration weapon</td>
 <td>Python • Terraform • Azure</td>
 <td>⚡ Testing</td>
-<td><a href="#">GitHub</a></td>
+<td>🔒 Private</td>
 </tr>
 <tr>
 <td><b>📊 WatchTower Analytics</b></td>
 <td>Real-time surveillance & data visualization</td>
 <td>Next.js • GraphQL • PostgreSQL</td>
 <td>🦇 Active</td>
-<td><a href="#">Demo</a></td>
+<td>🔒 Private</td>
 </tr>
 <tr>
 <td><b>🤖 Auto-Deploy System</b></td>
 <td>Custom DevOps automation framework</td>
 <td>Jenkins • Docker • Kubernetes</td>
 <td>🦇 Production</td>
-<td><a href="#">Docs</a></td>
+<td>🔒 Private</td>
 </tr>
 </tbody>
 </table>
@@ -576,11 +577,11 @@ graph LR
 <tr>
 <td valign="top">
   
-🦇 Launch Batcave 2.0<br>
+⚡ Launch Batcave 2.0<br>
 ⚡ Azure DevOps Cert<br>
-📱 2 Flutter Weapons<br>
-📜 25 Chronicles<br>
-🎤 5 City Broadcasts
+⚡ 2 Flutter Weapons<br>
+⚡ 25 Chronicles<br>
+⚡ 5 City Broadcasts
 
 </td>
 <td valign="top">
@@ -622,9 +623,9 @@ graph LR
 
 **🦇 Professional Objectives**
 - ✅ CodeSphere Revenue: ₹5 Lac+ (2024)
-- ⚡ New Certifications: 2/3 Complete
-- ⚡ Client Missions: 15/20
-- 🔄 Team Expansion: Strategic Planning
+- ⚡ New Certifications: 2/3 In Progress
+- ⚡ Client Missions: 18/20
+- ⚡ Team Expansion: Strategic Planning
 - 🔄 Global Allies: Recruitment Phase
 
 </td>
@@ -633,8 +634,8 @@ graph LR
 **🌍 Justice League Goals**
 - ✅ Chronicle Views: 100K+ Achieved
 - ⚡ Trained Heroes: 300/1000
-- ⚡ Broadcasts: 10/15
-- 🔄 Workshop Series: Initiating
+- ⚡ Broadcasts: 12/15
+- ⚡ Workshop Series: Initiating
 - 🔄 Mentorship Protocol: In Development
 
 </td>
@@ -691,7 +692,7 @@ graph LR
   <a href="https://hasnainm.hashnode.dev" target="_blank">
     <img src="https://img.shields.io/badge/📜_CHRONICLES-FFD700?style=for-the-badge&logo=hashnode&logoColor=000000&labelColor=000000" alt="Blog"/>
   </a>
-  <a href="https://www.codesphere.agency" target="_blank">
+  <a href="https://hasnain.codesphere.agency" target="_blank">
     <img src="https://img.shields.io/badge/🦇_BATCAVE-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Portfolio"/>
   </a>
 </p>
@@ -748,7 +749,7 @@ graph LR
 
 **🦇 The night is darkest just before the dawn. Keep coding, keep fighting! 🦇**
 
-<sub>Forged in the Shadows by Hasnain Makada • Last Updated: November 2025</sub>
+<sub>Forged in the Shadows by Hasnain Makada • Last Updated: January 2025</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FFD700&height=120&section=footer&animation=fadeIn" />
 
