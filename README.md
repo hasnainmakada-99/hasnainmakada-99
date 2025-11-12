@@ -101,9 +101,7 @@ const batmanDev: DarkKnight = {
 // The Bat Signal
 console.log(`When Gotham's code needs saving, ${batmanDev.codeName} answers the call! 🦇`);
 ```
-<center>
-<img align="Center" alt="Coding in the Shadows" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</center>
+<center><img align="Center" alt="Coding in the Shadows" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></center>
 
 
 <br clear="right"/>
